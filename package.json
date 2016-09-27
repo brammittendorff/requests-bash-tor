@@ -5,6 +5,7 @@
   "main": "screenshot.js",
   "dependencies": {
     "phantom": "^2.1.21",
+    "phantomjs": "^2.1.7",
     "random-useragent": "^0.3.0"
   },
   "devDependencies": {},
