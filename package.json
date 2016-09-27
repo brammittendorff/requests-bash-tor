@@ -1,0 +1,23 @@
+{
+  "name": "requests-bash-tor",
+  "version": "0.0.1",
+  "description": "",
+  "main": "screenshot.js",
+  "dependencies": {
+    "random-useragent": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brammittendorff/requests-bash-tor.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brammittendorff/requests-bash-tor/issues"
+  },
+  "homepage": "https://github.com/brammittendorff/requests-bash-tor#readme"
+}
