@@ -11,7 +11,7 @@ bash request.sh
 ```
 
 
-#get money
+# Get money
 
 
 ```
