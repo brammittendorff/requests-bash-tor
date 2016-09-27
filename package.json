@@ -4,6 +4,7 @@
   "description": "",
   "main": "screenshot.js",
   "dependencies": {
+    "phantom": "^2.1.21",
     "random-useragent": "^0.3.0"
   },
   "devDependencies": {},
